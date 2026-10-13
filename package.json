@@ -1,0 +1,13 @@
+{
+  "name": "bn-relay-zeabur",
+  "version": "1.0.0",
+  "private": true,
+  "description": "万能通道转发（Zeabur 香港/新加坡区域）",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
